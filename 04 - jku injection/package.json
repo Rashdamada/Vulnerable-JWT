@@ -17,7 +17,7 @@
     "jsonwebtoken-latest": "npm:jsonwebtoken@^8.5.1",
     "jwk-to-pem": "^2.0.5",
     "jws": "^2.0.0",
-    "node-jose": "^0.10.0",
+    "node-jose": "^2.2.0",
     "request": "^2.88.2"
   }
 }
